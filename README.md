@@ -10,7 +10,8 @@ Este projeto tem como objetivo construir um modelo preditivo para detecção de 
   notebooks/ # Notebook com EDA, feature engineering e modelagem
   scripts/ # Scripts Python modulares
   outputs/ # Resultados e gráficos
-  apresentacao.pdf # Apresentação com achados e recomendações ``` 
+  apresentacao.pdf # Apresentação com achados e recomendações
+``` 
 
 ## Requisitos
 - Python 3.8+
