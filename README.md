@@ -1,4 +1,4 @@
-# Projeto de Detecção de Fraudes - Desafio Técnico Cientista de Dados Sênior
+# Projeto de Detecção de Fraudes - Desafio Técnico Cientista de Dados
 
 ## Descrição
 Este projeto tem como objetivo construir um modelo preditivo para detecção de fraudes financeiras em transações, usando Random Forest e técnicas de engenharia de atributos.
