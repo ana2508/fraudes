@@ -1,15 +1,16 @@
-# Projeto de Detecção de Fraudes - Desafio Técnico Cientista de Dados 
+# Projeto de Detecção de Fraudes - Desafio Técnico Cientista de Dados Sênior
 
 ## Descrição
-Neste projeto construí um modelo preditivo para detecção de fraudes em transações financeiras, usando Random Forest e técnicas de "feature engineering".
+Este projeto tem como objetivo construir um modelo preditivo para detecção de fraudes financeiras em transações, usando Random Forest e técnicas de engenharia de atributos.
 
 ## Estrutura do Projeto
 
-data/ # Base de dados
-notebooks/ # Notebook com EDA, feature engineering e modelagem
-scripts/ # Scripts Python modulares
-outputs/ # Resultados e gráficos
-apresentacao.pdf # Apresentação com achados e recomendações
+
+ ``` data/ # Base de dados
+  notebooks/ # Notebook com EDA, feature engineering e modelagem
+  scripts/ # Scripts Python modulares
+  outputs/ # Resultados e gráficos
+  apresentacao.pdf # Apresentação com achados e recomendações ``` 
 
 ## Requisitos
 - Python 3.8+
@@ -20,7 +21,7 @@ Instalar com:
 pip install -r requirements.txt
 
 ## Execução
-1. Acesse o notebook: notebooks/01_EDA_Modelagem.ipynb;
+1. Acesse o notebook: notebooks/desafio.ipynb;
 2. Rode as células sequencialmente;
 3. Resultados gerados na pasta outputs/.
 
